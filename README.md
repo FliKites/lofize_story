@@ -6,3 +6,5 @@ Alternative Namespaces:
 
 https://lofize.hns.siasky.net/
 
+https://lofize.hns.siasky.dev/
+
